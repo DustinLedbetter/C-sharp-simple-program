@@ -1,0 +1,2 @@
+C:\Users\PC\AppData\Local\Temporary Projects\HelloWPFApp\bin\Debug\HelloWPFApp.exe.config
+C:\Users\PC\Documents\Visual Studio 2015\Projects\HelloWPFApp\HelloWPFApp\bin\Debug\HelloWPFApp.exe.config
